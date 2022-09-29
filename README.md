@@ -10,3 +10,4 @@ for a better user experience.
 ## Table of Contents
 
 * [Data Structures & Algorithms](dsa.md)
+* [System Design](system-design.md)
