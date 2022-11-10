@@ -10,4 +10,5 @@ for a better user experience.
 ## Table of Contents
 
 * [Data Structures & Algorithms](dsa.md)
+* [Go Programming Language](go.md)
 * [System Design](system-design.md)
