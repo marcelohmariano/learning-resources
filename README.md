@@ -9,6 +9,7 @@ for a better user experience.
 
 ## Table of Contents
 
+* [Design Docs](design-docs.md)
 * [Data Structures & Algorithms](dsa.md)
 * [Go Programming Language](go.md)
 * [System Design](system-design.md)
